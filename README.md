@@ -1,6 +1,9 @@
 # Jetpack Compose Exercises
 A group of exercise projects implementing different areas of native Android development with Kotlin and Jetpack Compose. Can help anyone who is just starting to learn Android development with Kotlin.
 
+## #0. [Learning resources](https://github.com/rawhasan/awesome-jetpack-compose-learning-resources)
+- For Compose + Mat3: [Codelab](https://developer.android.com/codelabs/jetpack-compose-theming#0)
+
 ## #1. [Basic Navigation](https://github.com/rawhasan/compose-exercise-navigation-basics)
 - Simple navigation between two screens with passing values using Jetpack Compose.
 - Allow entering only letters on the TextField.
